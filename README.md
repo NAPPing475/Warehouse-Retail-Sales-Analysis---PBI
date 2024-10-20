@@ -101,6 +101,11 @@ The dashboard visually represents warehouse sales performance by analyzing vario
    - **Data Fields:** Supplier as Location Data, Total Warehouse Sales as Values.
    - **Aggregation:** Sum of Total Warehouse Sales.
 
+
+![WAN](https://github.com/user-attachments/assets/7e59483d-14eb-4c34-ad7f-d293887abf34)
+
+
 ### Summary:
 
 This dashboard provides a detailed and interactive view of warehouse sales performance, helping stakeholders make informed decisions by analyzing sales trends, supplier performance, and item-wise sales distribution.
+
